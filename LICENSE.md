@@ -1,4 +1,4 @@
-
+premium App for Magnetic for macOS - OCR-support and clipboard-manager offers the most advanced Magnetic for macOS app, with OCR-support and clipboard-manager. Ideal for macOS
 
 
 
